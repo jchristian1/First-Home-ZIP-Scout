@@ -1,0 +1,6 @@
+# Ignore specific notebook and HTML output
+02_EDA.ipynb
+affordability_map.html
+
+# Ignore the entire data folder
+data/
